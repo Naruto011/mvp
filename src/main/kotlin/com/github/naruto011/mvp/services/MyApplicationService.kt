@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.naruto011.mvp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.naruto011.mvp.MyBundle
 
 class MyApplicationService {
 
